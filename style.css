@@ -1,0 +1,27 @@
+body{
+    background: #ffc0cb;
+    font-family: arial;
+    margin: 20px;
+    padding:20px;
+}
+
+h1 {
+    color: hwb(0 16% 35%);
+    font-size: 36px;
+}
+
+h2{
+    color: #8b4513;
+  font-size:24px;
+}
+
+ul, ol {
+font-size:18px;
+}
+
+img {
+width:300px;
+margin-top:20px;
+margin-bottom:20px;
+border-radius:10px;
+}
